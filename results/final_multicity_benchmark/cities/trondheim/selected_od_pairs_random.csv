@@ -1,0 +1,21 @@
+city,place_name,od_benchmark_mode,od_id,start,end,shortest_km,shortest_nodes,scenario_type
+Trondheim,"Trondheim, Norway",random,0,4686091096,12311252590,13.670571617174899,43,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,1,129991257,863815555,10.14236542192796,67,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,2,1081070508,9712364083,11.087079693185814,69,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,3,245431616,247648321,13.142213532443186,73,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,4,4303737351,1018692164,9.226818431160687,65,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,5,83591810,1716483771,7.289783006539571,77,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,6,60066283,5759580364,6.871074409788954,78,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,7,163086907,9846712412,10.890030683086184,82,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,8,11107405471,60778685,8.254648106120579,48,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,9,1381677516,60049356,7.366407582950771,35,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,10,247375274,8596085414,11.52199208320492,37,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,11,35814362,105869,12.963602982771512,103,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,12,4288204490,33847898,9.361574559840403,51,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,13,78709,267446583,5.418496560614033,46,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,14,152818176,8363547162,5.255603010773981,37,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,15,256609739,1860607805,12.62213357445614,102,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,16,8596067818,248181734,12.181801842653265,49,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,17,1142033329,1381677882,9.10866458147036,62,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,18,1018692094,4303737984,8.276765112476582,59,random_distance_filtered
+Trondheim,"Trondheim, Norway",random,19,443682057,262165510,10.412014072116497,43,random_distance_filtered

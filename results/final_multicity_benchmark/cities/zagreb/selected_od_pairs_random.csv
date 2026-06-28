@@ -1,0 +1,21 @@
+city,place_name,od_benchmark_mode,od_id,start,end,shortest_km,shortest_nodes,scenario_type
+Zagreb,"Zagreb, Croatia",random,0,1556376942,319531930,8.016444044173316,55,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,1,594790618,7199074377,9.114229429081314,60,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,2,380537759,1989464204,10.556672098874293,88,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,3,6958178789,2299470305,6.84871701683658,43,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,4,2728584161,1488750830,13.632341443723465,89,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,5,12120903233,339957569,13.857010239522237,104,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,6,1623829073,5071586334,7.702611234479572,77,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,7,1575691277,1555951266,6.8668186848665815,58,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,8,1544062105,380543513,11.975841759513148,113,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,9,428971469,7199074996,10.34640793340762,77,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,10,4089041980,10077535244,11.869179738169407,122,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,11,945948457,7223453252,5.020860026216051,43,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,12,1145455147,380538790,7.037283863531117,66,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,13,12215721410,27163446,8.089311723349752,57,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,14,380465727,1550879249,5.930150315591002,78,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,15,2734465290,595591372,5.087016832282194,64,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,16,597394309,1575376349,12.960699688147296,92,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,17,3672385485,577346400,12.520115237782345,133,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,18,394090335,576660249,11.928585791648146,112,random_distance_filtered
+Zagreb,"Zagreb, Croatia",random,19,965847483,380466570,10.279298532102729,72,random_distance_filtered

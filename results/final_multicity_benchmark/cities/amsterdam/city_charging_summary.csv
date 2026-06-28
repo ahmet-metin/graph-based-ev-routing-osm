@@ -1,0 +1,2 @@
+city,n_graph_nodes,n_graph_edges,osm_charging_records,unique_charging_nodes,area_km2,charging_node_density_km2,energy_model,edge_n_edges,edge_length_coverage,edge_highway_coverage,edge_maxspeed_coverage,edge_speed_kph_coverage,edge_travel_time_coverage,place_name
+Amsterdam,12937,29730,1011,672,219.4172614387996,3.062657858335525,road_attribute,29730,1.0,1.0,0.9957282206525395,1.0,1.0,"Amsterdam, Netherlands"

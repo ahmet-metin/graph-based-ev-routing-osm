@@ -1,0 +1,21 @@
+city,place_name,od_benchmark_mode,od_id,start,end,shortest_km,shortest_nodes,scenario_type
+Amsterdam,"Amsterdam, Netherlands",random,0,46302434,46483732,13.177048437839368,113,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,1,46280045,1724068203,10.629981090586728,94,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,2,46419878,4977962106,7.524942607476583,118,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,3,4564113776,46473252,9.00128365403312,98,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,4,7760577685,46275691,14.814876814538362,136,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,5,46258990,6645237882,8.336956539825486,103,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,6,46366848,12290597924,5.212485720612965,75,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,7,46485069,46409557,12.137165157440828,127,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,8,61815425,5420811104,11.723096445154766,85,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,9,46475287,46319940,14.610306229471766,144,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,10,46401740,7600730862,7.926873104448215,40,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,11,46276458,4075362375,13.477198908464947,96,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,12,5411046333,46325349,14.974532709052932,115,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,13,282782985,46484520,8.740899640296286,78,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,14,46440270,11910633645,5.633812208710545,58,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,15,12730711111,46267259,7.773943124794115,86,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,16,46367893,46240194,5.454252796096016,45,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,17,46435244,46506738,10.82483828666113,71,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,18,46402187,46273924,8.521402345985912,107,random_distance_filtered
+Amsterdam,"Amsterdam, Netherlands",random,19,46351734,2016695225,6.660619707700692,90,random_distance_filtered

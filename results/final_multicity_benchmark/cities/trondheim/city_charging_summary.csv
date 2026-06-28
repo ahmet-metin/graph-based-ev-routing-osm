@@ -1,0 +1,2 @@
+city,n_graph_nodes,n_graph_edges,osm_charging_records,unique_charging_nodes,area_km2,charging_node_density_km2,energy_model,edge_n_edges,edge_length_coverage,edge_highway_coverage,edge_maxspeed_coverage,edge_speed_kph_coverage,edge_travel_time_coverage,place_name
+Trondheim,6499,14605,78,63,713.71176425091,0.08827092834335282,road_attribute,14605,1.0,1.0,0.5254364943512496,1.0,1.0,"Trondheim, Norway"

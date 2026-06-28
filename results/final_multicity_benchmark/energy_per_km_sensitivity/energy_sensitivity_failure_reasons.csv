@@ -1,0 +1,51 @@
+energy_per_km_sensitivity,method,failure_reason,count
+2.0,Energy-aware Charging Detour,success,480
+2.0,Greedy Charging Detour,success,480
+2.0,Node-aware HRL-Q,success,479
+2.0,Node-aware HRL-Q,timeout,1
+2.0,Node-aware Q-learning,battery_depleted,1
+2.0,Node-aware Q-learning,success,478
+2.0,Node-aware Q-learning,timeout,1
+2.0,Shortest Path,success,480
+2.0,Shortest Path + Passive Charging,success,480
+5.0,Energy-aware Charging Detour,not_reached,3
+5.0,Energy-aware Charging Detour,success,477
+5.0,Greedy Charging Detour,not_reached,2
+5.0,Greedy Charging Detour,success,478
+5.0,Node-aware HRL-Q,battery_depleted,18
+5.0,Node-aware HRL-Q,success,458
+5.0,Node-aware HRL-Q,timeout,4
+5.0,Node-aware Q-learning,battery_depleted,30
+5.0,Node-aware Q-learning,success,450
+5.0,Shortest Path,battery_depleted,121
+5.0,Shortest Path,success,359
+5.0,Shortest Path + Passive Charging,battery_depleted,64
+5.0,Shortest Path + Passive Charging,success,416
+10.0,Energy-aware Charging Detour,not_reached,18
+10.0,Energy-aware Charging Detour,success,462
+10.0,Greedy Charging Detour,not_reached,123
+10.0,Greedy Charging Detour,success,357
+10.0,Node-aware HRL-Q,battery_depleted,128
+10.0,Node-aware HRL-Q,success,295
+10.0,Node-aware HRL-Q,timeout,57
+10.0,Node-aware Q-learning,battery_depleted,112
+10.0,Node-aware Q-learning,success,368
+10.0,Shortest Path,battery_depleted,369
+10.0,Shortest Path,success,111
+10.0,Shortest Path + Passive Charging,battery_depleted,258
+10.0,Shortest Path + Passive Charging,success,222
+15.0,Energy-aware Charging Detour,not_reached,74
+15.0,Energy-aware Charging Detour,success,406
+15.0,Greedy Charging Detour,not_reached,331
+15.0,Greedy Charging Detour,success,149
+15.0,Node-aware HRL-Q,battery_depleted,242
+15.0,Node-aware HRL-Q,dead_end,1
+15.0,Node-aware HRL-Q,success,138
+15.0,Node-aware HRL-Q,timeout,99
+15.0,Node-aware Q-learning,battery_depleted,208
+15.0,Node-aware Q-learning,success,268
+15.0,Node-aware Q-learning,timeout,4
+15.0,Shortest Path,battery_depleted,461
+15.0,Shortest Path,success,19
+15.0,Shortest Path + Passive Charging,battery_depleted,375
+15.0,Shortest Path + Passive Charging,success,105

@@ -1,0 +1,21 @@
+city,place_name,od_benchmark_mode,od_id,start,end,shortest_km,shortest_nodes,scenario_type
+Trondheim,"Trondheim, Norway",challenging,0,253170253,211203473,8.910803281422144,48,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,1,210259684,105413,6.900086484413553,66,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,2,180551259,410794382,9.412747583215737,94,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,3,34548523,362861055,6.861831498162601,68,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,4,12887516907,5657393709,9.917698574908824,71,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,5,276830373,10581501593,8.808199693417356,58,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,6,292563555,60344113,9.7746737840209,50,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,7,2920336805,248181599,10.668017913542796,37,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,8,4992295635,250749646,12.134491397684316,79,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,9,9771898848,12496743394,8.914216408387434,84,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,10,279049615,2824638850,6.139743165663362,62,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,11,41907965,2421361066,7.189715633371199,53,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,12,174972420,8596084295,10.951292251698991,37,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,13,252951119,33847853,5.48717405034969,54,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,14,7817413975,3530450282,7.170253593453399,41,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,15,196129057,411497496,6.429711042275392,72,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,16,410794396,448913187,8.414587579714766,60,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,17,266515545,60116790,6.844613812549698,48,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,18,356911874,243784923,7.329496133280751,67,shortest_fails_energyaware_succeeds
+Trondheim,"Trondheim, Norway",challenging,19,1860607807,142544876,11.366444273759273,69,shortest_fails_energyaware_succeeds
