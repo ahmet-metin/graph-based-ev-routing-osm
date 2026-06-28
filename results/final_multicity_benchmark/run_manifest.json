@@ -1,0 +1,260 @@
+{
+  "notebook": "ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity",
+  "run_timestamp": "20260626_210422",
+  "drive_mounted": true,
+  "output_dir": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140",
+  "files": [
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260626_210422/run_console_output.txt",
+      "name": "run_console_output.txt",
+      "description": "All printed notebook output",
+      "exists": true,
+      "size_bytes": 0
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260626_210422/run_errors.txt",
+      "name": "run_errors.txt",
+      "description": "Notebook stderr and error output",
+      "exists": true,
+      "size_bytes": 0
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260626_210422/run_manifest.json",
+      "name": "run_manifest.json",
+      "description": "Run manifest",
+      "exists": true,
+      "size_bytes": 930
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/amsterdam/energy_sensitivity_raw_results.csv",
+      "name": "energy_sensitivity_raw_results.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 1415498
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/amsterdam/energy_sensitivity_raw_results.csv",
+      "name": "energy_sensitivity_raw_results.csv",
+      "description": "Energy sensitivity raw results for Amsterdam",
+      "exists": true,
+      "size_bytes": 1415498
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/trondheim/energy_sensitivity_raw_results.csv",
+      "name": "energy_sensitivity_raw_results.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 1415141
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/trondheim/energy_sensitivity_raw_results.csv",
+      "name": "energy_sensitivity_raw_results.csv",
+      "description": "Energy sensitivity raw results for Trondheim",
+      "exists": true,
+      "size_bytes": 1415141
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/zagreb/energy_sensitivity_raw_results.csv",
+      "name": "energy_sensitivity_raw_results.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 1397671
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/zagreb/energy_sensitivity_raw_results.csv",
+      "name": "energy_sensitivity_raw_results.csv",
+      "description": "Energy sensitivity raw results for Zagreb",
+      "exists": true,
+      "size_bytes": 1397671
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_raw_results_all_cities.csv",
+      "name": "energy_sensitivity_raw_results_all_cities.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 4227192
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_raw_results_all_cities.csv",
+      "name": "energy_sensitivity_raw_results_all_cities.csv",
+      "description": "Raw ENERGY_PER_KM sensitivity results for all cities",
+      "exists": true,
+      "size_bytes": 4227192
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_overall_by_gamma_method.csv",
+      "name": "energy_sensitivity_overall_by_gamma_method.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 6620
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_overall_by_gamma_method.csv",
+      "name": "energy_sensitivity_overall_by_gamma_method.csv",
+      "description": "Overall ENERGY_PER_KM sensitivity by gamma and method",
+      "exists": true,
+      "size_bytes": 6620
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_by_city_gamma_method.csv",
+      "name": "energy_sensitivity_by_city_gamma_method.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 6288
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_by_city_gamma_method.csv",
+      "name": "energy_sensitivity_by_city_gamma_method.csv",
+      "description": "ENERGY_PER_KM sensitivity by city, gamma, and method",
+      "exists": true,
+      "size_bytes": 6288
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_by_scenario_gamma_method.csv",
+      "name": "energy_sensitivity_by_scenario_gamma_method.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 4709
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_by_scenario_gamma_method.csv",
+      "name": "energy_sensitivity_by_scenario_gamma_method.csv",
+      "description": "ENERGY_PER_KM sensitivity by OD scenario, gamma, and method",
+      "exists": true,
+      "size_bytes": 4709
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_by_battery_gamma_method.csv",
+      "name": "energy_sensitivity_by_battery_gamma_method.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 8597
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_by_battery_gamma_method.csv",
+      "name": "energy_sensitivity_by_battery_gamma_method.csv",
+      "description": "ENERGY_PER_KM sensitivity by battery level, gamma, and method",
+      "exists": true,
+      "size_bytes": 8597
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_failure_reasons.csv",
+      "name": "energy_sensitivity_failure_reasons.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 2117
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_failure_reasons.csv",
+      "name": "energy_sensitivity_failure_reasons.csv",
+      "description": "Failure-reason distribution under ENERGY_PER_KM sensitivity",
+      "exists": true,
+      "size_bytes": 2117
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_paper_table.csv",
+      "name": "energy_sensitivity_paper_table.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 2285
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_paper_table.csv",
+      "name": "energy_sensitivity_paper_table.csv",
+      "description": "Paper-ready ENERGY_PER_KM sensitivity table",
+      "exists": true,
+      "size_bytes": 2285
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_success_overall.png",
+      "name": "energy_sensitivity_success_overall.png",
+      "description": "plt.savefig output",
+      "exists": true,
+      "size_bytes": 435072
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_success_overall.png",
+      "name": "energy_sensitivity_success_overall.png",
+      "description": "ENERGY_PER_KM sensitivity overall success plot",
+      "exists": true,
+      "size_bytes": 435072
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_successful_battery_stress.png",
+      "name": "energy_sensitivity_successful_battery_stress.png",
+      "description": "plt.savefig output",
+      "exists": true,
+      "size_bytes": 322293
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_successful_battery_stress.png",
+      "name": "energy_sensitivity_successful_battery_stress.png",
+      "description": "ENERGY_PER_KM sensitivity battery-stress plot",
+      "exists": true,
+      "size_bytes": 322293
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_successful_detour.png",
+      "name": "energy_sensitivity_successful_detour.png",
+      "description": "plt.savefig output",
+      "exists": true,
+      "size_bytes": 251210
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_successful_detour.png",
+      "name": "energy_sensitivity_successful_detour.png",
+      "description": "ENERGY_PER_KM sensitivity detour plot",
+      "exists": true,
+      "size_bytes": 251210
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_city_success_wide.csv",
+      "name": "energy_sensitivity_city_success_wide.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 1070
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_per_km_sensitivity/energy_sensitivity_city_success_wide.csv",
+      "name": "energy_sensitivity_city_success_wide.csv",
+      "description": "Wide city-method ENERGY_PER_KM sensitivity success table",
+      "exists": true,
+      "size_bytes": 1070
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/energy_sensitivity_config.json",
+      "name": "energy_sensitivity_config.json",
+      "description": "Saved JSON output",
+      "exists": true,
+      "size_bytes": 546
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/final_variable_energy_sensitivity_results.csv",
+      "name": "final_variable_energy_sensitivity_results.csv",
+      "description": "DataFrame.to_csv output",
+      "exists": true,
+      "size_bytes": 4227192
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/final_variable_energy_sensitivity_results.csv",
+      "name": "final_variable_energy_sensitivity_results.csv",
+      "description": "Saved DataFrame CSV",
+      "exists": true,
+      "size_bytes": 4227192
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/all_results.xlsx",
+      "name": "all_results.xlsx",
+      "description": "Consolidated Excel workbook containing all CSV outputs",
+      "exists": true,
+      "size_bytes": 8281741
+    },
+    {
+      "path": "/content/drive/MyDrive/ChargeStationMakale_Results/ChargeStationMakale_Batarya10_MultiCity_EnergySensitivity/run_20260625_204140/final_run_summary.txt",
+      "name": "final_run_summary.txt",
+      "description": "Saved text output",
+      "exists": true,
+      "size_bytes": 6782
+    }
+  ]
+}

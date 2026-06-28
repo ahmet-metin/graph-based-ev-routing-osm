@@ -1,0 +1,26 @@
+{
+  "energy_sensitivity_values": [
+    2.0,
+    5.0,
+    10.0,
+    15.0
+  ],
+  "od_limit_per_mode": null,
+  "battery_levels": [
+    40.0,
+    60.0,
+    80.0,
+    100.0
+  ],
+  "rl_mode": "both",
+  "sensitivity_rl_episodes": 1000,
+  "max_steps": 300,
+  "uses_same_cached_od_pairs_as_main_benchmark": true,
+  "energy_model": "road_attribute",
+  "battery_capacity": 100.0,
+  "recharge_threshold": 35.0,
+  "safety_margin": 5.0,
+  "battery_stress_reward_enabled": true,
+  "battery_stress_reward_threshold": 20.0,
+  "battery_stress_reward_weight": 5.0
+}
