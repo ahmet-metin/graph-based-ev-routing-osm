@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Graph-Based Energy-Constrained Electric Vehicle Routing on OpenStreetMap Road Networks"
+message: "If you use this repository, please cite the associated paper."
+type: software
+authors:
+  - family-names: Metin
+    given-names: Ahmet
+repository-code: "https://github.com/USERNAME/REPOSITORY"
+license: "NOASSERTION"
+keywords:
+  - electric vehicle routing
+  - OpenStreetMap
+  - charging stations
+  - reinforcement learning
+  - Q-learning
+  - battery stress
