@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Metin
     given-names: Ahmet
-repository-code: "https://github.com/USERNAME/REPOSITORY"
+repository-code: "https://github.com/ahmet-metin/graph-based-ev-routing-osm"
 license: "NOASSERTION"
 keywords:
   - electric vehicle routing
