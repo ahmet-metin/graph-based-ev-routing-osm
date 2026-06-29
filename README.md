@@ -109,7 +109,7 @@ The notebook can also be run in Google Colab. If running in Colab, mount Google 
 
 ## License
 
-No license has been selected yet. Add a license before making the repository public if code reuse is intended.
+This repository is released under the MIT License. See the LICENSE file for details.
 
 ## Citation
 
